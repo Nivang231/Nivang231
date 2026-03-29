@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Nivang 👋
 
-<!--
-**Nivang231/Nivang231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🚀 Passionate about building modern web apps  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Frontend: React, Tailwind
+- Backend: Node.js, Express
+- Database: MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+- Internship Finder AI
+- E-commerce Website
+
+## 📫 Contact
+- Email: nivang231@gmail.com
