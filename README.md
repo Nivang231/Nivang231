@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻I am a full stack web developer + gen ai<br>🚀 Passionate developer who enjoys building clean, user-friendly, and practical web applications.<br>📚 Constant learner, always exploring new technologies and improving problem-solving skills.<br>💡 Love turning ideas into real-world projects with a focus on simplicity and performance.<br>🤝 Open to collaboration and excited to work on meaningful projects that create impact.
+👨🏻‍💻I am a Full Stack Web Developer + Gen AI<br>🚀 Passionate developer who enjoys building clean, user-friendly, and practical web applications.<br>📚 Constant learner, always exploring new technologies and improving problem-solving skills.<br>💡 Love turning ideas into real-world projects with a focus on simplicity and performance.<br>🤝 Open to collaboration and excited to work on meaningful projects that create impact.
 
 
 ## 🌐 Socials:
